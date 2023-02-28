@@ -1,0 +1,52 @@
+body {
+    margin: 50px;
+
+}
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> 4a59921eef5b021b729648b1aac79b2f224055bf
+.Center {
+    background-color: antiquewhite;
+}
+#description1 {
+    color:white;
+    text-align: center;
+}
+
+#background1 {
+    color:white;
+    background-image: url(pexels-photo-4296349.jpeg); 
+    font-size: 150%;
+}
+
+#storeMusic {
+    font-size: 100%;
+    border-radius: 80%;
+    border-width: medium;
+}
+
+#end {
+    text-align: center;
+}
+#homePageContent {
+    text-align: center;
+    color:white;
+    background-image: url(pexels-photo-4296349.jpeg);
+}
+#displayPageContent {
+    text-align: center;
+    color:white;
+    background-image: url(pexels-photo-4296349.jpeg);  
+}
+
+#hiddenPageContent {
+    text-align: center;
+    color:white;
+    background-image: url(pexels-photo-4296349.jpeg);    
+}
+#letLive {
+    max-width: 50%;
+}
+
